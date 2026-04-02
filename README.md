@@ -14,6 +14,6 @@ GAGGAGATGTGGAATCCCAACACGAACGTATCGGAGGACTGTCTGTATCTGAACATTTGGGTACCAACGAAGACCCGTTT
 
 Aligned fastas were downloaded when query had a good match. Alligned fastas sometimes trimmed to remove extra incomplete, poor matches. Complete sequence FASTA downloaded when there was extra intron between close matches that seemed to be part of the same sequence (idCulPipi1.1 alt). 
 
-Metadata found in culex_genomes
+Metadata found in culex_genomes and IDX_UT_RESULTS
 
 ### Cleaning and Aligning Data
