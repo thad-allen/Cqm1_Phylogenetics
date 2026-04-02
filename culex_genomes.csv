@@ -1,0 +1,26 @@
+gene,seq_id,assembly_accession,organism_name,assembly_name,collection_location,assembly_level,assembly_release_date,assembly_stats_number_of_scaffolds,notes
+cqm1,JBQGUX010000001.1,GCA_052323835.1,Culex quinquefasciatus,INRAE_Cquinq_1,France,Scaffold,8/28/2025,613,"Slab reference strain, France. Really good match"
+cqm1,JBGNXR010000795.1,GCA_049115075.1,Culex quinquefasciatus,Culex_hq_medaka,New Zealand,Scaffold,3/26/2025,21836,Really good match
+cqm1,OZ175957.1,GCA_964243045.1,Culex perexiguus,idCulPerx1.1,Spain,Chromosome,11/18/2024,,
+cqm1,OZ171994.1,GCA_964213205.1,Culex modestus,idCulMode1.1,Spain,Chromosome,8/22/2024,978,
+cqm1,JBEHCU010013369.1,GCA_041146695.1,Culex pipiens pipiens,INRAE_Cpip_1,France,Contig,8/8/2024,14481,
+cqm1,CAWUPY010001659.1,GCA_963924485.1,Culex pipiens,idCulPipi1.1 alternate haplotype,Sweden,Scaffold,1/30/2024,1996,"800ish bp longer than the rest of the sequences, two different ranges of overlap separated by 800 bp extra sequences."
+cqm1,OZ004312.1,GCA_963924435.1,Culex pipiens,idCulPipi1.1,Sweden,Chromosome,1/26/2024,29,"Both idCulpipi1.1 are 2 haplotypes from one individual. Kept top match only (94% match, entire length of query sequence), trimmed 2 200-500 bp 85% matches at very different locations in the genome"
+cqm1,NC_068938.1,GCF_016801865.2,Culex pipiens pallens,TS_CPP_V2,China,Chromosome,8/5/2022,289,
+cqm1,CM044969.1,GCA_024516115.1,Culex pipiens molestus,TS_CPM_V1,China,Chromosome,8/5/2022,723,
+cqm1,NC_051862.1,GCF_015732765.1,Culex quinquefasciatus,VPISU_Cqui_1.0_pri_paternal,South Africa,Chromosome,12/4/2020,56,
+,JBQGUX010000004.1,GCA_052323835.1,Culex quinquefasciatus,INRAE_Cquinq_1,,Scaffold,8/28/2025,613,
+,JBGNXR010015860.1,GCA_049115075.1,Culex quinquefasciatus,Culex_hq_medaka,,Scaffold,3/26/2025,21836,
+,OZ203901.1,GCA_964340515.1,Culex theileri,idCulThei1.1,,Chromosome,11/18/2024,708,
+,CAYFBD010000450.1,GCA_964340705.1,Culex theileri,idCulThei1.1 alternate haplotype,,Scaffold,11/18/2024,18688,
+,OZ171996.1,GCA_964213205.1,Culex modestus,idCulMode1.1,,Chromosome,8/22/2024,978,
+,,GCA_041146695.1,Culex pipiens pipiens,INRAE_Cpip_1,,Contig,8/8/2024,14481,
+,,GCA_964213185.1,Culex modestus,idCulMode1.1 alternate haplotype,,Scaffold,8/7/2024,17784,
+,,GCA_964187845.1,Culex laticinctus,idCulLati1.1,,Chromosome,6/18/2024,311,
+,,GCA_964187835.1,Culex laticinctus,idCulLati1.1 alternate haplotype,,Scaffold,6/18/2024,20941,
+,CAWUPY010000058.1,GCA_963924485.1,Culex pipiens,idCulPipi1.1 alternate haplotype,,Scaffold,1/30/2024,1996,
+,,GCA_963924435.1,Culex pipiens,idCulPipi1.1,,Chromosome,1/26/2024,29,
+,,GCF_016801865.2,Culex pipiens pallens,TS_CPP_V2,,Chromosome,8/5/2022,289,
+,,GCA_024516115.1,Culex pipiens molestus,TS_CPM_V1,,Chromosome,8/5/2022,723,
+,,GCF_015732765.1,Culex quinquefasciatus,VPISU_Cqui_1.0_pri_paternal,,Chromosome,12/4/2020,56,
+,,GCA_015732745.1,Culex quinquefasciatus,VPISU_Cqui_1.0_alt_paternal,,Scaffold,12/3/2020,108,
